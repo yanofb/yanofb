@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yanofb
-- 👀 I’m interested in learning about fullstack development
+- 👀 I’m interested about metrics and data
 - 🌱 I’m currently learning html, css and js
-- 💞️ I’m looking to learning everyday
+- 💞️ I’m looking to learning new stuff everyday
 - 📫 How to reach me: in/yanorge
 
 <!---
