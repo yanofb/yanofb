@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yanofb
-- 👀 I’m interested about metrics and data
-- 🌱 I’m currently updating my portfolio with my journey learning sql, python and js
+- 👀 I’m interested about data analysis
+- 🌱 I’m currently updating my portfolio with my journey building projects using SQL, Python and js
 - 💞️ I’m looking to learning new stuff everyday
 - 📫 How to reach me: in/yan-orge
 
